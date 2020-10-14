@@ -6,7 +6,7 @@ Skills: ![PHP](https://img.shields.io/badge/-PHP-8fcfd1?style=plastic&logo=PHP) 
 
 - 🌱 I’m currently learning CI4 and VueJs.
 - 👾 I would like to develop **1001** games
-- 💻 Be an excellent web developer
+- 💻 I am going to be an excellent web developer
 - ⭐Fun fact:  My first video game is called **Lord Hored The Retarded**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hazdan)
