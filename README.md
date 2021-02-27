@@ -7,7 +7,7 @@
   Web developer learning day by day and video game developer for fun
 </h4>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=hazdan&label=Profile%20views&color=blueviolet&style=flat" alt="Hazdan"/>
 </p>
 
@@ -24,8 +24,6 @@
 - 💻 I am going to be an excellent web developer
 
 - ⭐Fun fact: My first video game is called **Lord Hored The Retarded**
-
-### Blogs posts
 
 <h3 align="center">Languages and Tools:</h3>
 
