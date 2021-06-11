@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning NeoVim.
 
 - 👾 I would like to develop **1001** games
 
