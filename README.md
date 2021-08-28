@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning NeoVim.
+- 🌱 I’m currently learning FastAPI.
 
 - 👾 I would like to develop **1001** games
 
