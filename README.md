@@ -17,7 +17,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning FastAPI.
+- 🌱 I’m currently learning Machine Learning.
 
 - 👾 I would like to develop **1001** games
 
