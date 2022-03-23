@@ -21,8 +21,6 @@
 
 - 👾 I would like to develop **1001** games
 
-- 💻 I am going to be an excellent web developer
-
 - ⭐Fun fact: My first video game is called **Lord Hored The Retarded**
 
 <h3 align="center">Languages and Tools:</h3>
