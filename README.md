@@ -30,6 +30,3 @@
  
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazdan&theme=tokyonight_duo" alt="Hazdan" />
-</p>
