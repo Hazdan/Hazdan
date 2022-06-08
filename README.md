@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hi! 
-  <img src="https://raw.githubusercontent.com/syedareehaquasar/syedareehaquasar/master/gifs/Hi.gif" width="30px">
+  Hi! 👋
   , I'm Manuel Romero
 </h1>
 <h4 align="center">
