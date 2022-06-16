@@ -3,7 +3,7 @@
   , I'm Manuel Romero
 </h1>
 <h4 align="center">
-  Web developer learning day by day and video game developer for fun
+  Python developer and video game developer for fun
 </h4>
 
 <p align="center">
