@@ -35,10 +35,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Hazdan&theme=nord&row=2&column=3&margin-w=15&margin-h=15" alt="Hazdan"/>
   </a>
 </p>
- 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Hazdan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>
-
-
-  
