@@ -1,14 +1,9 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
- 
-<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hazdan&label=Profile%20views&color=blueviolet&style=flat" alt="Hazdan"/>
 </p>
 
-### <div align="center">I'm Manuel Romero, a full-time python developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">Hi 👋, I'm Manuel Romero, a full-time python developer 👨‍💻 working remotely since 2022 🚀</div>  
 
 ## SkillSet
 <div align="center">  
