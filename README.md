@@ -1,4 +1,4 @@
-## <div align="center">Hi 👋, I'm Manuel Romero, a full-time python developer 👨‍💻 working remotely since 2022 🚀</div>  
+## <div align="center">Hi 👋, I'm Manuel Romero, a full-time 👨‍💻 working remotely since 2022 🚀</div>  
 
 ### SkillSet
 <div align="center">  
